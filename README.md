@@ -1,6 +1,6 @@
-# Are you a _`TRUE senior dev`_?<br/>Are you on the right track to becoming one?
+# The Definitive Guide to becoming a _`TRUE senior dev`_
 
-Check my ultimate guide to find out. Coming here to GitHub soon(ish)™️. 
+Coming here to GitHub soon(ish)™️. 
 
 ⭐ **Star this repo** ⭐ and ✉️ **[Subscribe HERE to get notified when the guide is out](https://trueseniordev.com/90Ec)** ✉️
 
