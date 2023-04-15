@@ -1,5 +1,7 @@
 # The Definitive Guide to becoming a _`TRUE senior dev`_
 
+![cover_maybe_8](https://user-images.githubusercontent.com/241243/232248392-8449397c-a095-4d64-93c0-b67f9f2aab81.jpeg)
+
 ---
 
 ⚠️ This guide is still in progress but **`I'm actively working on it 👨‍💻`**.
