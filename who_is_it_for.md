@@ -17,4 +17,4 @@ No matter what's your next step, this guide will help you get there _faster_.
 
 * [NEXT: What makes companies successful?](TBD.md)
 * [PREV: Why I'm writing this guide?](why_this_guide.md)
-* [Table of contents](README.md)
+* [Table of contents](https://github.com/CrazyGoodGuides/TrueSeniorDev#intro)

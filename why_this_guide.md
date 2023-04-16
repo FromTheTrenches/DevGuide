@@ -13,4 +13,4 @@ I want your journey to senior and beyond to go smoother, without wasting so much
 ---
 
 * [NEXT: Who is this guide for?](who_is_it_for.md)
-* [Table of contents](README.md)
+* [Table of contents](https://github.com/CrazyGoodGuides/TrueSeniorDev#intro)
