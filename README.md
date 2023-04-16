@@ -198,4 +198,4 @@ If you are a grey-haired, battle-scarred mentor who knows your specialization in
 
 ---
 
-* [NEXT: Why I'm writing this guide?](why_this_guide.md)
+* [NEXT: Why I'm writing this guide?](pages/why_this_guide.md)
