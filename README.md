@@ -1,6 +1,6 @@
 # The Definitive Guide to becoming a _`TRUE senior dev`_
 
-![Cover image with a cool senior dev cat](https://user-images.githubusercontent.com/241243/232254628-eb9ae326-ffa2-49c2-9a15-e7df276a7c90.jpg)
+![Cover image featuring the TrueSeniorDev logo.](images/cover.webp)
 
 ---
 
