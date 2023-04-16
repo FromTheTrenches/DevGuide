@@ -12,8 +12,8 @@
 
 ## INTRO
 
-### [📖 Why I'm writing this guide?](why_this_guide.md)
-### [📖 Who is this guide for?](who_is_it_for.md)
+### [📖 Why I'm writing this guide?](pages/why_this_guide.md)
+### [📖 Who is this guide for?](pages/who_is_it_for.md)
 
 ## PART 1. What does it mean to be a _PROFESSIONAL_ developer?
 
