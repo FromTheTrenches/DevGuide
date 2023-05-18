@@ -15,19 +15,23 @@
 ### [📖 Why I'm writing this guide?](pages/why_this_guide.md)
 ### [📖 Who is this guide for?](pages/who_is_it_for.md)
 
-## PART 1. What does it mean to be a _PROFESSIONAL_ developer?
+## PART 1. Being a professional developer.
 
 If you consider yourself a professional, you're no longer coding just for fun. You're now coding to help your company succeed. And this completely changes the game.
 
 You'll never become a true professional (or, in fact, anything more than a micromanaged code monkey) if you don't understand:
 
-### 👨‍💻 Chapter 1. What makes companies successful?
+### [📖 Chapter 1. What does it mean to be a professional?](pages/chapter_01.md)
+
+What sets a professional apart from a hobbyist, the difference between passive, active, and proactive mindsets, and the nature of modern software development.
+
+### 👨‍💻 Chapter 2. What makes companies successful?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 What _all_ companies need to succeed (even if they don't recognize it), how modern software products are built, and why it requires self-managing professionals, not code monkeys.
 
-### 👨‍💻 Chapter 2. How we, developers, can influence a company's success?
+### 👨‍💻 Chapter 3. How we, developers, can influence a company's success?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
@@ -39,25 +43,25 @@ Being a true professional is not enough for getting noticed and promoted. To fas
 
 In particular, it's essential for you to know:
 
-### 👨‍💻 Chapter 3. What's the one (and only) thing that will get you promoted?
+### 👨‍💻 Chapter 4. What's the one (and only) thing that will get you promoted?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 Why the popular myth of the 10x developer is a misconception, what it means to make an impact, how it can turn you into a 100x developer, and why all tech companies consider it when promoting and hiring.
 
-### 👨‍💻 Chapter 4. How do career ladders (levels) work across the industry?
+### 👨‍💻 Chapter 5. How do career ladders (levels) work across the industry?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 What are the similarities between levels across various companies, and what is the scope of impact and expectations associated with each level.
 
-### 👨‍💻 Chapter 5. How to make a far-reaching impact?
+### 👨‍💻 Chapter 6. How to make a far-reaching impact?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 All the different ways in which you can make an impact, how to extend its reach, and why you don't have to be a manager or lead to make a company-wide splash.
 
-### 👨‍💻 Chapter 6. How to take control of your career advancement?
+### 👨‍💻 Chapter 7. How to take control of your career advancement?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
@@ -70,37 +74,37 @@ To effectively make an impact and advance your career, you need the right (and w
 
 To develop such a comprehensive skillset, you must learn:
 
-### 👨‍💻 Chapter 7. What does it mean to be a well-rounded developer?
+### 👨‍💻 Chapter 8. What does it mean to be a well-rounded developer?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 Which categories of skills do you need to master, which ones require a basic understanding, and what's the rationale behind these particular categories.
 
-### 👨‍💻 Chapter 8. Should you be a generalist or a specialist?
+### 👨‍💻 Chapter 9. Should you be a generalist or a specialist?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 The pros and cons of both approaches, how to combine them, and which path is more likely to advance your career in today's dynamic job market.
 
-### 👨‍💻 Chapter 9. The definitive list of tech skills.
+### 👨‍💻 Chapter 10. The definitive list of tech skills.
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 Everything you need to design, develop, and maintain complex software systems, from coding and architecture to security and performance (and much more).
 
-### 👨‍💻 Chapter 10. The definitive list of non-tech skills.
+### 👨‍💻 Chapter 11. The definitive list of non-tech skills.
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 All the skills revolving around _the process_ of developing complex systems, from soft skills and personal productivity to methodologies and business metrics (and much more).
 
-### 👨‍💻 Chapter 11. Traits of an outstanding developer (and how to cultivate them).
+### 👨‍💻 Chapter 12. Traits of an outstanding developer (and how to cultivate them).
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 Why you need a specific set of personal traits to excel as a developer, what these traits are, and how they can be developed and refined despite the common misconception that one's traits are fixed.
 
-### 👨‍💻 Chapter 12. How to create your personalized learning roadmap?
+### 👨‍💻 Chapter 13. How to create your personalized learning roadmap?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
@@ -112,25 +116,25 @@ Learning may seem like just another skill, but it's unique. To become a true pro
 
 This will help you become an expert and efficient learner:
 
-### 👨‍💻 Chapter 13. A brief note on general learning techniques.
+### 👨‍💻 Chapter 14. A brief note on general learning techniques.
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 Why the way you learn makes a critical difference, how much modern learning techniques differ from what we're taught at school, and a few pointers to kickstart your journey with effective learning methods.
 
-### 👨‍💻 Chapter 14. Programming-specific learning advice (or how to quickly master new languages or frameworks).
+### 👨‍💻 Chapter 15. Programming-specific learning advice (or how to quickly master new languages or frameworks).
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 How to transfer knowledge from one language or framework to another, how to make the most of various learning resources, and how to optimally balance learning and experimentation.
 
-### 👨‍💻 Chapter 15. How to learn in-depth (and why it's essential)?
+### 👨‍💻 Chapter 16. How to learn in-depth (and why it's essential)?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 Why superficial understanding won't cut it for a true senior dev, how to avoid blindly applying best practices, and how to dig into their true roots, edge cases, and limitations.
 
-### 👨‍💻 Chapter 16. How to learn without sacrificing your work-life balance?
+### 👨‍💻 Chapter 17. How to learn without sacrificing your work-life balance?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
@@ -142,19 +146,19 @@ Technology is changing too fast to learn everything just once and rely on that k
 
 To avoid becoming a relic of the past, you must not only know how to learn effectively but also:
 
-### 👨‍💻 Chapter 17. How to best stay up-to-date with what's new?
+### 👨‍💻 Chapter 18. How to best stay up-to-date with what's new?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 How to choose which outlets to follow, whether to focus on mainstream or niche sources, how closely related they should be to your current specialization, and how often to check them for updates to ensure you won't miss the next big thing.
 
-### 👨‍💻 Chapter 18. How to decide what's worth investing your time (and how much)?
+### 👨‍💻 Chapter 19. How to decide what's worth investing your time (and how much)?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 How to filter out the hype, which novelties to experiment with, should you try out several in parallel, how much time and effort to invest, and should you become an early adopter.
 
-### 👨‍💻 Chapter 19. How to avoid becoming obsolete?
+### 👨‍💻 Chapter 20. How to avoid becoming obsolete?
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
@@ -166,25 +170,25 @@ Most of the principles presented in this guide are universal. However, what you 
 
 Here's some fine-tuned advice tailored to your specific stage in your career:
 
-### 👨‍💻 Chapter 20. A fresh graduate or a junior.
+### 👨‍💻 Chapter 21. A fresh graduate or a junior.
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 If you're about to start or are a year or two into your first job. What to focus on to kickstart your career the right way, build a solid foundation for further progression, and "level up" for the first time.
 
-### 👨‍💻 Chapter 21. A mid-level or early senior.
+### 👨‍💻 Chapter 22. A mid-level or early senior.
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 If you already know your stuff but still have some gaps in your skillset and don't yet feel like a true expert. How to fill those gaps, gain more experience rapidly, build a well-rounded and robust skillset, and become a top-tier senior professional.
 
-### 👨‍💻 Chapter 22. A seasoned senior.
+### 👨‍💻 Chapter 23. A seasoned senior.
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 If you're an experienced pro with multiple complex projects and years of experience under your belt, ready to advance your career to the next level. How to extend the scope of your impact beyond your direct team, take full control of your further progression, and successfully transition to staff or management roles.
 
-### 👨‍💻 Chapter 23. A staff or principal-level veteran.
+### 👨‍💻 Chapter 24. A staff or principal-level veteran.
 
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
