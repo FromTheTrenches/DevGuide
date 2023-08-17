@@ -25,17 +25,13 @@ You'll never become a true professional (or, in fact, anything more than a micro
 
 What sets a professional apart from a hobbyist, the difference between passive, active, and proactive mindsets, and the nature of modern software development.
 
-### 👨‍💻 Chapter 2. What makes companies successful?
+### [📖 Chapter 2. What makes companies successful?](pages/chapter_02.md)
 
-> _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
+What _all_ companies need to succeed (even if they don't realize it), how they can achieve it, and why should you as a developer understand it.
 
-What _all_ companies need to succeed (even if they don't recognize it), how modern software products are built, and why it requires self-managing professionals, not code monkeys.
+### [📖 Chapter 3. How we, developers, can influence a company's success?](pages/chapter_03.md)
 
-### 👨‍💻 Chapter 3. How we, developers, can influence a company's success?
-
-> _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
-
-What companies expect of us and why it demands a radically new mindset and a much more comprehensive set of skills than just coding.
+Why you have more leverage than you think, how you can influence different facets of a company's success, and why it's crucial for you to do so.
 
 ## PART 2. Advancing your career.
 
