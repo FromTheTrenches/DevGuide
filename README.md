@@ -13,6 +13,7 @@
 ## INTRO
 
 ### [📖 Why I'm writing this guide?](pages/why_this_guide.md)
+
 ### [📖 Who is this guide for?](pages/who_is_it_for.md)
 
 ## PART 1. Being a professional developer.
@@ -39,9 +40,7 @@ Being a true professional is not enough for getting noticed and promoted. To fas
 
 In particular, it's essential for you to know:
 
-### 👨‍💻 Chapter 4. What's the one (and only) thing that will get you promoted?
-
-> _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
+### [📖 Chapter 4. What's the one (and only) thing that will get you promoted?](pages/chapter_04.md)
 
 Why the popular myth of the 10x developer is a misconception, what it means to make an impact, how it can turn you into a 100x developer, and why all tech companies consider it when promoting and hiring.
 
@@ -62,7 +61,6 @@ All the different ways in which you can make an impact, how to extend its reach,
 > _[✉️ Coming Soon(ish)™](https://trueseniordev.com/BJd7)_
 
 Why first impressions matter, how to get yourself and your accomplishments noticed, how to enlist your manager's support, and how to negotiate a promotion or a raise.
-
 
 ## PART 3. Developing a comprehensive skillset.
 

@@ -112,7 +112,7 @@ So, how can you, as a developer, influence different facets of a company's succe
 
 ## Isn't this list too ambitious?
 
-The above list of skills - many of them soft or process-oriented rather than code-related - may feel overwhelming, if not intimidating. It's a massive paradigm shift and a huge amount of knowledge, much of it outside a typical developer's comfort zone.
+The above list of skills - many of them soft or process-oriented rather than code-related - may feel overwhelming, if not intimidating. It's a massive paradigm shift and a huge amount of knowledge, much of it outside of a typical developer's comfort zone.
 
 Do you have to master it all? No. But it's also not completely impossible. And if you want to be a true professional, you must at least understand the big picture and be open to developing skills beyond coding. Plus, be willing to step out of your comfort zone to proactively *use* those new skills when the opportunity arises.
 
@@ -122,6 +122,6 @@ However, skills alone won't automatically land you a promotion. You also need to
 
 ---
 
-* [NEXT: What's the one (and only) thing that will get you promoted?](TBD.md)
+* [NEXT: What's the one (and only) thing that will get you promoted?](chapter_04.md)
 * [PREV: What makes companies successful?](chapter_02.md)
 * [Table of contents](https://github.com/CrazyGoodGuides/TrueSeniorDev#-chapter-3-how-we-developers-can-influence-a-companys-success)
