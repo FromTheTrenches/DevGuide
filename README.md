@@ -1,4 +1,4 @@
-# The Definitive Guide to Becoming a _`TRUE Senior Dev`_
+# The Definitive Guide to Succeeding as a Professional Dev
 
 ![Cover image featuring the TrueSeniorDev logo.](images/cover.webp)
 
