@@ -82,6 +82,6 @@ This may seem too abstract for now. We'll explore how this translates to softwar
 
 ---
 
-* [NEXT: How do career ladders (levels) work across the industry?](TBD.md)
+* [NEXT: How do career ladders (levels) work across the industry?](chapter_05.md)
 * [PREV: How we, developers, can influence a company's success?](chapter_03.md)
-* [Table of contents](https://github.com/CrazyGoodGuides/TrueSeniorDev#-chapter-4-whats-the-one-and-only-thing-that-will-get-you-promoted)
+* [Table of contents](https://github.com/FromTheTrenches/DevGuide#-chapter-4-whats-the-one-and-only-thing-that-will-get-you-promoted)

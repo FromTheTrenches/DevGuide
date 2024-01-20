@@ -17,4 +17,4 @@ No matter what's your next step, this guide will help you get there _faster_.
 
 * [NEXT: What does it mean to be a professional?](chapter_01.md)
 * [PREV: Why I'm writing this guide?](why_this_guide.md)
-* [Table of contents](https://github.com/CrazyGoodGuides/TrueSeniorDev#intro)
+* [Table of contents](https://github.com/FromTheTrenches/DevGuide#intro)

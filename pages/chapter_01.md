@@ -58,4 +58,4 @@ However, to make this leap, you first need to understand what makes companies su
 
 * [NEXT: What makes companies successful?](chapter_02.md)
 * [PREV: Who is this guide for?](who_is_it_for.md)
-* [Table of contents](https://github.com/CrazyGoodGuides/TrueSeniorDev#-chapter-1-what-does-it-mean-to-be-a-professional)
+* [Table of contents](https://github.com/FromTheTrenches/DevGuide#-chapter-1-what-does-it-mean-to-be-a-professional)

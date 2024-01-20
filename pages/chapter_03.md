@@ -124,4 +124,4 @@ However, skills alone won't automatically land you a promotion. You also need to
 
 * [NEXT: What's the one (and only) thing that will get you promoted?](chapter_04.md)
 * [PREV: What makes companies successful?](chapter_02.md)
-* [Table of contents](https://github.com/CrazyGoodGuides/TrueSeniorDev#-chapter-3-how-we-developers-can-influence-a-companys-success)
+* [Table of contents](https://github.com/FromTheTrenches/DevGuide#-chapter-3-how-we-developers-can-influence-a-companys-success)

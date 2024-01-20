@@ -162,4 +162,4 @@ And, what's most important, while many of the points discussed above might appea
 
 * [NEXT: How we, developers, can influence a company's success?](chapter_03.md)
 * [PREV: What does it mean to be a professional?](chapter_01.md)
-* [Table of contents](https://github.com/CrazyGoodGuides/TrueSeniorDev#-chapter-2-what-makes-companies-successful)
+* [Table of contents](https://github.com/FromTheTrenches/DevGuide#-chapter-2-what-makes-companies-successful)

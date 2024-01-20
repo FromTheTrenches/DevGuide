@@ -44,9 +44,7 @@ In particular, it's essential for you to know:
 
 Why the popular myth of the 10x developer is a misconception, what it means to make an impact, how it can turn you into a 100x developer, and why all tech companies consider it when promoting and hiring.
 
-### 👨‍💻 Chapter 5. How do career ladders (levels) work across the industry?
-
-> _[✉️ Coming Soon(ish)™](https://www.fromthetrenches.dev/p/dev-guide)_
+### [📖 Chapter 5. How do career ladders (levels) work across the industry?] (pages/chapter_05.md)
 
 What are the similarities between levels across various companies, and what is the scope of impact and expectations associated with each level.
 
